@@ -1,0 +1,49 @@
+#MOB
+{
+    width:auto;
+    height:auto;
+}
+
+body
+{
+    font-family:'Raleway', sans-serif;
+    color:green;
+    background-color:rgb(145, 76, 27);
+}
+
+.header_div
+{
+    background-color:green;
+    color:rgb(145, 76, 27);
+}
+
+.header_div p
+{
+letter-spacing:2px;
+font-size:12px;
+font-weight:bolder;
+} 
+
+.main_div button
+{
+background-color:green;
+color:rgb(145, 76, 27);
+letter-spacing:2px;
+font-size:12px;
+font-weight:bolder;
+margin-top:30px;
+}
+
+.copy_right_footer
+{
+background-color:green;
+color:rgb(145, 76, 27);
+text-align:center;
+bottom:0;
+font-size:20px;
+position:fixed;
+line-height:3;
+text-shadow:10px 10px 10px rgb(145, 76, 27);
+width:100%;
+font-weight:bolder;
+}
